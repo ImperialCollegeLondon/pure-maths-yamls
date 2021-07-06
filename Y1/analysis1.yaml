@@ -1,0 +1,34 @@
+#main definitions and theorems from y1 analysis at Imperial
+
+Numbers:
+  #theorem: Any x ∈ Q is equal to an eventually periodic decimal expansion
+  Countability: ''
+  #inf and sup?? must exist surely
+  Completeness axiom: '' 
+  Dedekind cut: '' #nonexaminable
+Sequences:
+  Sequence: ''
+  Convergence of sequences: ''
+  # Divergence, ->inf 
+  # Uniqueness of limits, algebra of limits, monotonic and bounded => conv.
+  Cauchy sequence: ''
+  Cauchy <=> convergence: ''
+  Subsequence: ''
+  Bolzano-Weierstrass: ''
+  Cauchy <=> Bolzano-Weierstrass: ''
+Series:
+  Series: ''
+  Partial sums: ''
+  Convergence of series: ''
+  # Comparison test, sandwich test, alternating series test, series converging => sequence -> 0
+  Absolute convergence: ''
+  Absolute conv. => conv.: ''
+  # ratio test, root test
+  Rearrangement of a sequence: ''
+  Power series: ''
+  Radius of convergence: ''
+  Cauchy product: '' #non-examinable
+Continuity:
+  Limit: '' 
+  Continuity: ''
+  Continiuty <=> Sequential continuity: ''
