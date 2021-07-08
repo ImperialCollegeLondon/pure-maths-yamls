@@ -1,0 +1,71 @@
+# this list of topics is from Imperials mathematics year 2 Lebesgue measure and integration
+
+# 1.
+Elementary results in linear algebra:
+  companion matrix: ''
+  eigenspace: ''
+  algebraic multiplicity: ''
+  geometric multiplicity: ''
+  inner direct sum: ''
+  outer direct sum: ''
+  invariant subspace: ''
+  quotient space: ''
+  first isomorphism theorem: ''
+  triangularisation theorem: ''
+
+# 2.
+Polynomials:
+  Cayley-Hamilton theorem: ''
+  Euclidean algorithm: ''
+  greatest common divisor: ''
+  least common multiple: ''
+  coprime: ''
+  Bezout's lemma: ''
+  irreducible: ''
+  unique factorisation of polynomials: ''
+  minimal polynomial: ''
+  diagonisable iff. minimal polynomial is a product of linear factors: ''
+
+# 3.
+Canonical forms of vector spaces:
+  primary decomposition theorem: ''
+  Jordan block: ''
+  Jordan decomposition theorem: ''
+  cyclic subspace: ''
+  annihilator: '' 
+  # the T-annihilator of a vector v is the least degree, monic polynomial m such that m(T)(v) = 0. 
+  cyclic decompostion theorem: ''
+  rational canonical form theorem: ''
+
+# 4.
+Inner product spaces:
+  linear functional: ''
+  dual space: ''
+  annihilator: ''
+  # for X ⊆ V, the annihilator of X is { φ ∈ V* | φ(X) = 0 }
+  inner product space: ''
+  classification of functionals of a inner product space: ''
+  orthogonal: ''
+  orthogonal complement: ''
+  existence of orthonormal basis: ''
+  orthogonal projection: ''
+  adjoint: ''
+  spectral theorem: ''
+
+# 5.
+Bilinear and quadratic forms:
+  bilinear form: ''
+  symmetric: ''
+  skew-symmetric: ''
+  perpendicular subspace: ''
+  non-degenerate: ''
+  congruent: ''
+  symplectic form: ''
+  symplectic basis: ''
+  quadratic form: ''
+  equivalent form: ''
+  complex classification: ''
+  Sylvester's law of inertia: ''
+  existence of infinitely many non-equivalent forms over ℚ: ''
+  isometry: ''
+    
