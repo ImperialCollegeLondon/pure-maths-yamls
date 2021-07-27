@@ -6,22 +6,31 @@ Descriptions of the main theorems and definitions in all the pure maths courses 
 
 ## Y1
 
-Analysis 1 : everything up to continuity
+* Analysis 1 : everything up to continuity
 
 TODO
 
-Analysis 1 (from differentiability onwards)
-IUM (KB)
-Linear Algebra and Groups
+* Analysis 1 (from differentiability onwards)
+* IUM (KB)
+* Linear Algebra and Groups
 
 
 ## Y2
 
-Lebesgue and Lin Alg are done
+DONE
 
-Groups and rings: we have the groups, but not the rings
+* Lebesgue
+* Lin Alg part of Lin Alg + Numerical Analysis
+
+HALF-DONE
+
+* Groups and rings: we have the groups, but not the rings
 
 TODO
 
-Analysis 2 (real and complex)
-Differential equation part of MVC+Diff Equations
+* Analysis 2 (real and complex)
+* Differential equation part of MVC+Diff Equations
+
+UNKNOWN
+
+Is the PDE course pure or not?
