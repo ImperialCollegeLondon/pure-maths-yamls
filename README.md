@@ -31,6 +31,3 @@ TODO
 * Analysis 2 (real and complex)
 * Differential equation part of MVC+Diff Equations
 
-UNKNOWN
-
-Is the PDE course pure or not?
