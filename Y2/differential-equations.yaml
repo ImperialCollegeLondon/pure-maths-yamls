@@ -1,0 +1,62 @@
+# this list of topics is from the second part of Imperial's mathematics year 2 course:
+# multivariable calculus and differential equations
+
+# 1.
+Existence and uniqueness:
+  Picard iterates: ''
+  global Lipschitz continuity: ''
+  local Lipschitz continuity: ''
+  operator norm: ''
+  mean value inequality: ''
+  Picard-Lindelöf theorem (global version): ''
+  Picard-Lindelöf theorem (local version): ''
+  maximal solution: ''
+  existence of maximal solution: ''
+  boundary behaviour of maximal solution: ''
+  general solution: ''
+  initial value property of general solutions: ''
+  cocycle property of general solutions: ''
+  flow: ''
+  initial value property of flows: ''
+  group property of flows: ''
+  orbit: ''
+
+# 2.
+Linear systems: 
+  matrix exponential: ''
+  flow of linear differential equation: ''
+  real JCF of complex eigenvalues: ''
+  spectrum: ''
+  exponential bound of matrix exponential: ''
+  variation of constants formula: ''
+
+# 4. 
+Nonlinear systems: 
+  stable: ''
+  attractive: ''
+  asymptotically stable: ''
+  exponentially stable: ''
+  repulsive: ''
+  homoclinic and hetroclinic orbit: ''
+  stability of linear systems: ''
+  Hartman-Grobman theorem: ''
+  hyperbolicity: ''
+  Gronwall lemma: ''
+  linearised stability: ''
+  stable set: ''
+  unstable set: ''
+  (positively / negatively)-invariant set: ''
+  omega-limit set: ''
+  alpha-limit set: ''
+  invariance and compactness of (omega / alpha)-limit sets: ''
+  orbital derivative: ''
+  Lyapunov function: ''
+  sublevel: ''
+  positive invariance of sublevels: ''
+  Lyapunov's direct method for (asympototic)-stability: ''
+  La Salle's invariance principle: ''
+  Poincaré-Bendixson theorem: ''
+
+
+
+  
