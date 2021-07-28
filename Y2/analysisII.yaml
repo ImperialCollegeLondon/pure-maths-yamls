@@ -1,0 +1,73 @@
+# this list of topics is from the first part of Imperial's mathematics year 2 course:
+# Analysis II
+
+# 1.
+Differentiation in higher dimensions:
+# Definitions in this section are defined wrt. ℝⁿ
+  Euclidean space: ''
+  convergence: ''
+  open set: ''
+  continuity: ''
+  limits: ''
+  derivative: ''
+  Jacobian: ''
+  uniqueness of the derivative: ''
+  directional derivative: ''
+  partial derivative: ''
+  gradient: ''
+  higher derivatives: ''
+  Schwartz' theorem: ''
+  Hessian: '' 
+  Taylor's theorem: ''
+  inverse function theorem: ''
+  implicit function theorem: ''
+  the inverse function theorem and implicit function theorems are equivalent: ''
+
+# 2.
+Metric and topological spaces:
+# Definitions in this sections are defined both for metric and topological spaces (whenever possible)
+  metric space: ''
+  topological space: ''
+  normed vector space: ''
+  subspace:
+  finer topology: ''
+  product space: ''
+  equivalence of metrics: ''
+  convergence: ''
+  open set: ''
+  closed set: ''
+  interior: ''
+  boundary: ''
+  isolated point: ''
+  limit point: ''
+  closure: ''
+  dense: ''
+  separable: ''
+  continuity: ''
+  uniform continuity: ''
+  homeomorphism: ''
+  (bi)-Lipschitz: ''
+  isometry: ''
+  metrisable: ''
+  Hausdorff: ''
+  connected: ''
+  path-connected: ''
+  path-connected implies connected: ''
+  compact: ''
+  compact implies closed: ''
+  closed subspace of a compact space is compact: ''
+  Heine-Borel theorem: ''
+  Heine-Borel property: ''
+  sequential compactness: ''
+  compact iff. sequential compact in metric spaces: ''
+  Bolzano-Weierstrass in ℝⁿ: ''
+  continuous map from compact space is uniformly continuous: ''
+  functions from compact spaces achieve their extremum: ''
+  complete: ''
+  Banach space: ''
+  completeness of C([a, b]): ''
+  Arzelà-Ascoli: ''
+  Banach fixed point theorem: ''
+
+
+
