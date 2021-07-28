@@ -21,6 +21,7 @@ DONE
 
 * Lebesgue
 * Lin Alg part of Lin Alg + Numerical Analysis
+* Differential equation part of MVC+Diff Equations
 
 HALF-DONE
 
@@ -29,5 +30,4 @@ HALF-DONE
 TODO
 
 * Analysis 2 (real and complex)
-* Differential equation part of MVC+Diff Equations
 
