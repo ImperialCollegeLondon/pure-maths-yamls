@@ -1,0 +1,78 @@
+# this list of topics is from Imperial's mathematics year 3 course: 
+# group representation theory
+
+# 1.
+Fundamentals:
+  group representation: ''
+  homomorphism of representations: ''
+  left(/right)-regular representation: ''
+  adjoint representation: ''
+  group algebra: ''
+  G-linear projection: ''
+  subrepresentation: ''
+  quotient representation: ''
+  irreducible representation: ''
+  first isomorphism theorem of representations: ''
+
+# 2.
+Maschke's and Schur's:
+  decomposable: ''
+  semisimple: ''
+  Maschke's theorem: ''
+  representations of cyclic groups: ''
+  Schur's lemma: ''
+  uniqueness of decomposition: ''
+  representations of Abelian groups: ''
+  1-dimensional representations from Abelianisation: ''
+
+# 3. 
+Decomposition of representations:
+  sum of squares formula: ''
+  G-invariant subspace: ''
+  averaging map: ''
+  number of irreducible subrepresentation equal the number of conjugacy classes: ''
+
+# 4. 
+Tensor product and dual representation:
+  free vector space: ''
+  tensor product of vector spaces: ''
+  universal property of the tensor product: ''
+  basis of the tensor product: ''
+  tensor product of representations: ''
+  dual representation: ''
+  Kronecker product: ''
+  external tensor product of representations: ''
+  irreducibility of the external tensor product of representations: ''
+
+# 5.
+Character theory:
+  character: ''
+  class function: ''
+  inner product on class functions: ''
+  characters of irreducible representation are orthonormal: ''
+  two representations are isomorphic iff they have the same character: ''
+  character table: '' 
+  every normal subgroup is an intersection of kernels of irreducible representations: ''
+  commutator subgroup is the intersection of the kernels of 1-dimensional representations: ''
+
+# 6.
+Algebra and modules:
+  ℂ-algebra: ''
+  left-module: ''
+  submodule: ''
+  simple: ''
+  semisimple module: ''
+  decomposable: ''
+  quotient module: ''
+  homomorphism of modules: ''
+  first isomorphism theorem for modules: ''
+  Schur's lemma for modules: ''
+  direct sum of modules: ''
+  finite dimensional left-module isomorphic to matrix algebra: ''
+  semisimple algebra: ''
+  Artin-Wedderburn theorem: ''
+  characters of modules: ''
+  Hoschild traces: ''
+  two modules over a finite-dimensional semisimple algebra are isomorphic iff they have the same character: ''
+  characters of simple left-modules of a finite-dimensional algebra form a basis in the space of Hoschild traces: ''
+

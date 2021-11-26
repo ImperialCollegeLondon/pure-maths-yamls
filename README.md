@@ -36,6 +36,7 @@ TODO
 DONE 
 
 Functional analysis
+Group representation theory
 
 TODO
 
