@@ -1,0 +1,123 @@
+# this list of topics is from Imperial's mathematics year 3 course: 
+# functional analysis
+
+# 1.
+Classical linear spaces:
+  convex function: ''
+  lp space: ''
+  Lp space: ''
+  Hölder's inequality (lp and Lp): ''
+  Minkowski's inequality (lp and Lp): ''
+  Jensen's inequality: ''
+  completeness of c0: ''
+  completeness of c: ''
+  completeness of Lp: ''
+  completeness of lp: ''
+  separability of lp: ''
+  separability of Lp: ''
+  separability of C^k([a, b]): ''
+
+# 2.
+Elementary definitions:
+  Hamel basis: ''
+  Schauder basis: ''
+  existence of Hamel basis for every vector space: ''
+  existence of Schauder basis implies separable: ''
+  sesquilinear form: ''
+  equivalence of norms on finite dimensional spaces: ''
+  Riesz's lemma: ''
+
+# 3.
+Hilbert space:
+  Hilbert space: ''
+  convex set: ''
+  nearest point property: ''
+  orthogonal system: ''
+  Fourier coefficient: ''
+
+# 4.
+Linear operators:
+  bounded linear operator: ''
+  finite rank operator: ''
+  dual space: ''
+  Riesz's representation theorem: ''
+  dual operator: ''
+  bounded sesquilinear form: ''
+  representation of bounded sesquilinear form: ''
+
+# 5.
+Extension of operators:
+  Urysohn's lemma: ''
+  Tietze-Urysohn lemma: ''
+  Hahn-Banach theorem: ''
+  Banach limit theorem: ''
+  Müntz-Szäsz theorem: ''
+  total variation: ''
+  representation of Stieltjes integral: ''
+
+# 6.
+Uniform boundedness principle: 
+  Baire's category theorem: ''
+  Banach-Stienhaus theorem: ''
+  open mapping theorem: ''
+  bounded inverse theorem: ''
+  closed linear operator: ''
+  closed graph theorem: ''
+
+# 7.
+Compactness:
+  ε-cover: ''
+  totally bounded: ''
+  compact iff closed and totally bounded: ''
+  totally boundedness of subsets of lp: ''
+  Azela-Ascoli theorem: ''
+  Kolmogorov-Riesz theorem: ''
+  compact operators: ''
+  bounded linear operator is compact iff its dual is compact: ''
+  Fredholm alternative: ''
+
+# 8.
+Spectral theory:
+  weak convergence: ''
+  weak convergence in Hilbert space: ''
+  weak topology: ''
+  convex set is strongly closed iff it is weakly closed: ''
+  weak* topology: ''
+  Banach-Alaoglu: ''
+  resolvent: ''
+  regular value: ''
+  resolvent set: ''
+  (discrete/continuous/residual)-spectrum: ''
+  spectrum of bounded operator in Hilbert spaces: ''
+  eigenvectors of self-adjoint operators in Hilbert spaces: ''
+  Riesz-Schauder theorem: ''
+  Hilbert-Schmidt operator: ''
+  compactness of Hilbert-Schmidt operator: ''
+
+# 9. 
+Algebra of operators:
+  Banach algebra: ''
+  Stone-Weierstass theorem: ''
+  C*-algebra: ''
+  von Neumann algebra: ''
+
+# 10. 
+Review of measure theory:
+  # The new material here not in the 2nd year measure theory course are:
+  Riesz-Markov-Kakutani representation theorem: ''
+  conditional expectation: ''
+  Bochner integral: ''
+  Bochner integrability criterion: ''
+
+# 11.
+Unbounded operators:
+  Dirichlet problem: ''
+  weak derivative: ''
+  closedness of weak derivative: ''
+  existence and uniqueness of weak solution: ''
+  Sobolev space: ''
+  iterated Hölder inequality: ''
+  Gagliardo-Nirenberg inequality: ''
+  Sobolev embedding theorem: ''
+  
+

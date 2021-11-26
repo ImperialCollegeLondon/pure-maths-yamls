@@ -29,5 +29,15 @@ HALF-DONE
 
 TODO
 
-* Analysis 2 (real and complex)
+* Analysis 2 (complex part)
+
+## Y3
+
+DONE 
+
+Functional analysis
+
+TODO
+
+Almost everything
 
